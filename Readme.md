@@ -2,6 +2,10 @@
 
 JetBlocker is a powerful tool and money-saving plugin for websites created by WordPress. The goal of this Plugin is to ask a website visitor to disable browser extensions that block ads. 
 
+## Support Developer
+
+### [Buy Me a Coffee](https://www.buymeacoffee.com/danishlaeeq)
+
 ## Description 
 
 ### Plugin Main features
@@ -68,7 +72,3 @@ The plugin works perfectly with all significant WordPress frameworks: Genesis, D
 
 ### Compatible with all themes
 <img src="screenshots/screenshot-5.jpg" />
-
-## Support Developer
-
-### [Buy Me a Coffee](https://www.buymeacoffee.com/danishlaeeq)
