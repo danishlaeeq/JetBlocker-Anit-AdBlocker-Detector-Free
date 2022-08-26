@@ -30,13 +30,13 @@ The plugin works perfectly with all significant WordPress frameworks: Genesis, D
 </br>
 [Buy Premium](https://www.codester.com/items/38669/jetblocker-anti-adblock-wordpress-plugin?ref=technodigitz)
 
-### Documentation and Support
+## Documentation and Support
 
 - If you have any more questions, visit our support on the [Plugin's Forum](https://www.codester.com/items/comments/38669/jetblocker-anti-adblock-wordpress-plugin?ref=technodigitz).
 - Feel free to [contact us](mailto:info@technodigitz.com) if you want any custom widget for your site.
 
 
-== Installation ==
+## Installation & Configuration:
 
 1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
@@ -47,23 +47,28 @@ The plugin works perfectly with all significant WordPress frameworks: Genesis, D
 6. Done!
 
 ## Frequently Asked Questions
-### Does it work with all Themes?
+#### Does it work with all Themes?
 - The plugin works perfectly with all significant WordPress frameworks: Genesis, Divi, Themify, Warp 7, Ultimatum, Beans, Unyson, Gantry, and others.
 
-### Is this Compatible with other plugins?
+#### Is this Compatible with other plugins?
 - JetBlocker WordPress Plugin is tested and compatible with All Major WP Plugins: Yoast SEO, Contact Form 7, W3 Total Cache, NextGen Gallery, Slider Revolution, WooCommerce, and million others. 
 
-== Screenshots ==
-
+## Screenshots 
+### Layouts
 <img src="screenshots/screenshot-1.jpg" />
+
+### All Browser Extension Support 
 <img src="screenshots/screenshot-2.jpg" />
+
+### Cross-Browser Compatibility 
 <img src="screenshots/screenshot-3.jpg" />
+
+### Suitabale for all templates
 <img src="screenshots/screenshot-4.jpg" />
+
+### Compatible with all themes
 <img src="screenshots/screenshot-5.jpg" />
 
-== Changelog ==
+## Support Developer
 
-= 1.0.0 =
-Release Date: Auguest, 2022
-
-* Initial release. Enjoy!
+### [Buy Me a Coffee](https://www.buymeacoffee.com/danishlaeeq)
