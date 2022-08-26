@@ -1,8 +1,8 @@
-=== JetBlocker Anit AdBlocker Detector Free ===
+## JetBlocker Anit AdBlocker Detector Free
 
 JetBlocker is a powerful tool and money-saving plugin for websites created by WordPress. The goal of this Plugin is to ask a website visitor to disable browser extensions that block ads. 
 
-== Description ==
+## Description 
 
 ### Plugin Main features
 - The Plugin defines all Ad Blocker extensions
@@ -25,7 +25,9 @@ JetBlocker is designed to block the use of AdBlocker extensions maximally. The u
 The plugin works perfectly with all significant WordPress frameworks: Genesis, Divi, Themify, Warp 7, Ultimatum, Beans, Unyson, Gantry, and others.
 
 [View Demo](https://technodigitz.com/demo/jetblocker/)
+</br>
 [View on Wordpress.org](https://wordpress.org/plugins/jet-blocker-anti-ad-blocker-detector/)
+</br>
 [Buy Premium](https://www.codester.com/items/38669/jetblocker-anti-adblock-wordpress-plugin?ref=technodigitz)
 
 ### Documentation and Support
@@ -44,20 +46,20 @@ The plugin works perfectly with all significant WordPress frameworks: Genesis, D
 6. add link to donation button eg. Paypal, patreon, BuyMeACoffe etc. ( Premium feature )
 6. Done!
 
-== Frequently Asked Questions ==
-= Does it work with all Themes? =
-The plugin works perfectly with all significant WordPress frameworks: Genesis, Divi, Themify, Warp 7, Ultimatum, Beans, Unyson, Gantry, and others.
+## Frequently Asked Questions
+### Does it work with all Themes?
+- The plugin works perfectly with all significant WordPress frameworks: Genesis, Divi, Themify, Warp 7, Ultimatum, Beans, Unyson, Gantry, and others.
 
-= Is this Compatible with other plugins? =
-JetBlocker WordPress Plugin is tested and compatible with All Major WP Plugins: Yoast SEO, Contact Form 7, W3 Total Cache, NextGen Gallery, Slider Revolution, WooCommerce, and million others. 
+### Is this Compatible with other plugins?
+- JetBlocker WordPress Plugin is tested and compatible with All Major WP Plugins: Yoast SEO, Contact Form 7, W3 Total Cache, NextGen Gallery, Slider Revolution, WooCommerce, and million others. 
 
 == Screenshots ==
 
-screenshots/screenshot-1.jpg
-screenshots/screenshot-2.jpg
-screenshots/screenshot-3.jpg
-screenshots/screenshot-4.jpg
-screenshots/screenshot-5.jpg
+<img src="screenshots/screenshot-1.jpg" />
+<img src="screenshots/screenshot-2.jpg" />
+<img src="screenshots/screenshot-3.jpg" />
+<img src="screenshots/screenshot-4.jpg" />
+<img src="screenshots/screenshot-5.jpg" />
 
 == Changelog ==
 
