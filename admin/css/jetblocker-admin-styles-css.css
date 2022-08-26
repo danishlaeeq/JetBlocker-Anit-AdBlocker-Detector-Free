@@ -1,0 +1,202 @@
+                        /**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+                        
+                        td>input,
+                        td>select {
+                            width: 30%;
+                        }
+                        
+                        .jetblocker_settings .header,
+                        .jetblocker_notice .header {
+                            background: #f44336;
+                            color: #fff;
+                            font-weight: 500;
+                            padding: 1rem;
+                            margin: 1rem 0;
+                            font-family: Roboto;
+                        }
+                        
+                        .jetblocker_settings .header .heading,
+                        .jetblocker_notice .header .heading {
+                            display: flex;
+                            align-items: center;
+                        }
+                        
+                        .jetblocker_settings .header .heading img,
+                        .jetblocker_notice .header .heading img {
+                            width: 100px;
+                        }
+                        
+                        .jetblocker_settings .header .heading h2,
+                        .jetblocker_notice .header .heading h2 {
+                            color: white;
+                            font-size: 25px;
+                            padding-left: 2rem;
+                        }
+                        
+                        .jetblocker_settings .header>p,
+                        .jetblocker_notice .header .p {
+                            font-size: 14px;
+                        }
+                        
+                        .jetblocker_settings .nav-tabs {
+                            float: left;
+                            width: 100%;
+                            margin: 0;
+                            list-style-type: none;
+                        }
+                        
+                        .jetblocker_settings .nav-tabs>li {
+                            float: left;
+                            margin-bottom: -1px;
+                        }
+                        
+                        .jetblocker_settings .nav-tabs>li>a {
+                            margin-right: 2px;
+                            line-height: 1.5;
+                            padding: 10px;
+                            border: 1px solid transparent;
+                            border-radius: 4px 4px 0 0;
+                            float: left;
+                            text-decoration: none;
+                            color: #000;
+                        }
+                        
+                        .jetblocker_settings .nav-tabs>li>a:hover,
+                        .jetblocker_settings .nav-tabs>li>a:focus {
+                            background: #e3e3e3;
+                            box-shadow: none;
+                        }
+                        
+                        .jetblocker_settings .nav-tabs>li.active>a,
+                        .jetblocker_settings .nav-tabs>li.active>a:hover,
+                        .jetblocker_settings .nav-tabs>li.active>a:focus {
+                            color: #555;
+                            cursor: default;
+                            background-color: #fff;
+                            border-color: transparent;
+                        }
+                        
+                        .jetblocker_settings .tab-content>.tab-pane {
+                            float: left;
+                            width: 100%;
+                            display: none;
+                        }
+                        
+                        .jetblocker_settings .tab-content>.tab-pane.active {
+                            display: block;
+                            padding: 10px;
+                            background-color: #fff;
+                            box-shadow: 0 5px 4px -2px rgba(0, 0, 0, 0.15);
+                        }
+                        
+                        .control {
+                            font-size: 18px;
+                            position: relative;
+                            display: block;
+                            margin-bottom: 15px;
+                            padding-left: 30px;
+                            cursor: pointer;
+                        }
+                        
+                        .control input {
+                            position: absolute;
+                            z-index: -1;
+                            opacity: 0;
+                        }
+                        
+                        .control__indicator {
+                            position: absolute;
+                            top: 2px;
+                            left: 0;
+                            width: 20px;
+                            height: 20px;
+                            background: #e6e6e6;
+                        }
+                        
+                        .control--radio .control__indicator {
+                            border-radius: 50%;
+                        }
+                        /* Hover and focus states */
+                        
+                        .control:hover input~.control__indicator,
+                        .control input:focus~.control__indicator {
+                            background: #ccc;
+                        }
+                        /* Checked state */
+                        
+                        .control input:checked~.control__indicator {
+                            background: #2196f3;
+                        }
+                        /* Hover state whilst checked */
+                        
+                        .control:hover input:not([disabled]):checked~.control__indicator,
+                        .control input:checked:focus~.control__indicator {
+                            background: #114f81;
+                        }
+                        /* Disabled state */
+                        
+                        .control input:disabled~.control__indicator {
+                            pointer-events: none;
+                            opacity: .6;
+                            background: #e6e6e6;
+                        }
+                        /* Check mark */
+                        
+                        .control__indicator:after {
+                            position: absolute;
+                            display: none;
+                            content: '';
+                        }
+                        /* Show check mark */
+                        
+                        .control input:checked~.control__indicator:after {
+                            display: block;
+                        }
+                        /* Checkbox tick */
+                        
+                        .control--checkbox .control__indicator:after {
+                            top: 4px;
+                            left: 8px;
+                            width: 3px;
+                            height: 8px;
+                            transform: rotate(45deg);
+                            border: solid #fff;
+                            border-width: 0 2px 2px 0;
+                        }
+                        /* Disabled tick colour */
+                        
+                        .control--checkbox input:disabled~.control__indicator:after {
+                            border-color: #7b7b7b;
+                        }
+                        
+                        .jetblocker_notice {
+                            color: #fff;
+                            border-color: #f44336;
+                            border: none;
+                            background: #f44336;
+                            color: #fff;
+                            padding: 1rem;
+                            border-bottom: 3px solid #801109;
+                            box-shadow: 0px -20px 20px -27px black, inset 0px -20px 20px -27px black;
+                        }
+                        
+                        .jetblocker_notice .header {
+                            background-color: transparent;
+                            margin: 0;
+                        }
+                        
+                        .jetblocker_notice p {
+                            color: #fff;
+                        }
+                        
+                        .jetblocker_notice a,
+                        .jetblocker_notice p strong {
+                            color: rgb(255, 255, 0)
+                        }
+                        
+                        .jetblocker_notice .notice-dismiss:before {
+                            color: #fff;
+                        }
