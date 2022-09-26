@@ -5,6 +5,9 @@ JetBlocker is a powerful tool and money-saving plugin for websites created by Wo
 ## Support Developer
 
 ### [Buy Me a Coffee](https://www.buymeacoffee.com/danishlaeeq)
+### [PayPal](https://www.paypal.com/paypalme/makstudioo/5usd)
+
+
 
 ## Description 
 
