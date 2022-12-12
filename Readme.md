@@ -1,5 +1,5 @@
 ## JetBlocker Anit AdBlocker Detector Free
-## [Download from WordPress.org ]https://wordpress.org/plugins/jet-blocker-anti-ad-blocker-detector/)
+## [Download from WordPress.org ](https://wordpress.org/plugins/jet-blocker-anti-ad-blocker-detector/)
 
 JetBlocker is a powerful tool and money-saving plugin for websites created by WordPress. The goal of this Plugin is to ask a website visitor to disable browser extensions that block ads. 
 
